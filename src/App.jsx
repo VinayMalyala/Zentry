@@ -4,7 +4,7 @@ import React from 'react'
 const App = () => {
   return (
     <main>
-      <div className='text-5xl text-orange-500 font-bold'>Welcome to Awwwards</div>
+      <div className='text-5xl text-violet-300 font-bold font-robert-medium'>Welcome to Awwwards</div>
     </main>
   )
 }
