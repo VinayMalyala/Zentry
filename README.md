@@ -11,7 +11,9 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">Zentry</h3>
+  <h3 align="center">
+    <a href="https://zentry-chi.vercel.app/">Zentry</a> - Vist Website
+  </h3>
 
    <div align="center">
      Zentry is a sleek and modern application designed to deliver seamless user experiences with smooth animations and a visually appealing interface. Built with React JS, Tailwind CSS, and GSAP, this project         showcases advanced front-end development techniques.
