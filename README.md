@@ -24,6 +24,8 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
+5. 📂 [Project Structure](#project-structure)
+6. 📜 [License](#license)
 
 
 ## <a name="introduction">🤖 Introduction</a>
@@ -90,6 +92,26 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
+---
+
+##  <a name="project-structure">📂 Project Structure </a>
+
+```plaintext
+Zentry/
+├── public/            # Static assets
+├── src/
+│   ├── components/    # Reusable React components
+│   ├── styles/        # Custom Tailwind CSS configurations
+│   ├── App.js         # Root component
+│   └── index.js       # Entry point
+├── .gitignore
+├── package.json
+└── README.md
+
+```
+
+## <a name="#license">📜 License </a>
+This project is licensed under the [MIT License](license).
 
 ## Disclaimer
 
