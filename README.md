@@ -24,14 +24,11 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
 
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Build a visually captivating website inspired by **[Zentry]**, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. Learn how to deliver a luxurious, modern feel, focusing on engaging UI/UX and smooth responsiveness, capturing the essence of what makes an Awwwards winner.
+Build a visually captivating website inspired by **Zentry**, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. Learn how to deliver a luxurious, modern feel, focusing on engaging UI/UX and smooth responsiveness, capturing the essence of what makes an Awwwards winner.
 
 If you're getting started and need assistance or face any bugs, please feel free to reach me out!
 
@@ -96,4 +93,4 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ## Disclaimer
 
-All design credits go to **[Zentry]**. This project is created purely for **educational purposes** and is not intended for commercial use or public deployment.
+All design credits go to **Zentry**. This project is created purely for **educational purposes** and is not intended for commercial use or public deployment.
