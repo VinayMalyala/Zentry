@@ -35,9 +35,9 @@ If you're getting started and need assistance or face any bugs, please feel free
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- GSAP
-- React.js
-- Tailwind CSS
+- **React.js**: Component-based architecture for building interactive UIs.
+- **Tailwind CSS**: Utility-first CSS framework for responsive and customizable designs.
+- **GSAP**: High-performance animation library for stunning effects.
 
 ## <a name="features">🔋 Features</a>
 
